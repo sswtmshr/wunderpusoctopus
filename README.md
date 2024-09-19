@@ -1,4 +1,4 @@
-# Wonderpus Octopus
+# Wunderpus Octopus
 # Modeling the relationship between biogeochemical layers and chlorophyll density  
 
 Prediction of chlorophyll concentration in the ocean aids in assessing ecosystem health, advising fisheries management, and enhancing our understanding of Earth's biogeochemical processes. By employing deep learning methods, we will develop models to analyze the relationship between chlorophyll concentration and biogeochemical features using the [Copernicus Marine Dataset](https://www.copernicus.eu/en).
